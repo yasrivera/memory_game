@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pets
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6dd4762c7ce37cf4e9fa2cd769460bd4, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4d0c4d20ec4574f41badfe8417c0d41b, type: 3}
+  - {fileID: 21300000, guid: c48da03091e4a614382e0de8acab80f4, type: 3}
+  - {fileID: 21300000, guid: 2f9d54401116eef4d9dbdfa72899ff8d, type: 3}
+  - {fileID: 21300000, guid: 1a3135a0a98d6fb4ca784931d515a28e, type: 3}
+  - {fileID: 21300000, guid: 98e6fdb066832c24b8b4c795bde8b201, type: 3}
+  - {fileID: 21300000, guid: 3eaf8f2140628144188de5658f347f44, type: 3}
+  - {fileID: 21300000, guid: 507ef1410c835754cb7a18e6ed82270e, type: 3}
+  - {fileID: 21300000, guid: d4e108c1b515f1d4d9e237a0972d6158, type: 3}
+  - {fileID: 21300000, guid: e4d1eac17c35dbe4daf0fc13992e5bc3, type: 3}
+  - {fileID: 21300000, guid: a92f03f173a2f5a468b901777c234b66, type: 3}
+  - {fileID: 21300000, guid: 66314a22d21c72f4baca7d184cfa3601, type: 3}
+  - {fileID: 21300000, guid: 72187552bc3f46a418825fbaed426b01, type: 3}
+  - {fileID: 21300000, guid: 69791a9266803c746a1e3fde8bbd0b05, type: 3}
+  - {fileID: 21300000, guid: 46eca9d2f5710bf40a3a8b5e7117a600, type: 3}
+  - {fileID: 21300000, guid: 1d048883c33731749857271b5c8bdaf2, type: 3}
+  - {fileID: 21300000, guid: ebef05c3604592b43ada66028930e5b9, type: 3}
+  - {fileID: 21300000, guid: ac4e4b142225f994ab59a73d61b8a104, type: 3}
+  - {fileID: 21300000, guid: df5db6b48c4cdef4cac2bd6fc5ab50e0, type: 3}
+  - {fileID: 21300000, guid: cbf8dfc4712aa6f49b3adceccbec9d51, type: 3}
+  - {fileID: 21300000, guid: 9e198b556fd81834fa2b55359bc4bc4f, type: 3}
+  - {fileID: 21300000, guid: 0e210ef5ed9726c4c82ae5e8e1159dde, type: 3}
+  - {fileID: 21300000, guid: 220e5d26f197c0546a90a5ce8fd42c5f, type: 3}
+  - {fileID: 21300000, guid: daaef1364edc62545bb463204ae65c01, type: 3}
+  - {fileID: 21300000, guid: 73f899c6b8be5ed4fb92d106bc71b906, type: 3}
+  - {fileID: 21300000, guid: 84b33117778d73e468c694c71b4a0994, type: 3}
+  - {fileID: 21300000, guid: b3b09497cc899764897ab8367f156ab6, type: 3}
+  - {fileID: 21300000, guid: 343100d7d06a9db4c9cbb8749a363e82, type: 3}
+  - {fileID: 21300000, guid: 952e0a082b5c0404ca9c5b9c4dfb8622, type: 3}
+  - {fileID: 21300000, guid: 01c1dc888499e20439f9d90fbd90cc11, type: 3}
+  - {fileID: 21300000, guid: ae3a38d8f94373b48849a57316733920, type: 3}
+  - {fileID: 21300000, guid: f028ef29f7b233b4e96bea54b1d43361, type: 3}
+  - {fileID: 21300000, guid: d774e659a20d9904094f616a6468acfd, type: 3}
+  - {fileID: 21300000, guid: 10b7c6e9288e70040aefad9f9b2b7e23, type: 3}
+  - {fileID: 21300000, guid: 16bd891a66d6db640a1f2160ddd6230a, type: 3}
+  - {fileID: 21300000, guid: e54e1adaa2f5b0147a5ce820a6788f12, type: 3}
+  - {fileID: 21300000, guid: 2d886eda765a2f0438c9c47c5ab16a8f, type: 3}
+  - {fileID: 21300000, guid: 1f0452ea2f2637a44902634aeca67993, type: 3}
+  - {fileID: 21300000, guid: 524712abb894db54cad4e257bff90eba, type: 3}
+  - {fileID: 21300000, guid: ddf39ccb72d7c674aa2e426fea8130a0, type: 3}
+  - {fileID: 21300000, guid: 1d43987c40ee2964eb8a10128de90f34, type: 3}
+  - {fileID: 21300000, guid: 5e103d0db70200d48ae4a7c4449e0d51, type: 3}
+  - {fileID: 21300000, guid: 4406465d9db61ed4b8e18c212b5b94f2, type: 3}
+  - {fileID: 21300000, guid: 8bfedd6dc1f97c441a059c4edbd2489c, type: 3}
+  - {fileID: 21300000, guid: 5dd384adcc8ec374bafad1616a566386, type: 3}
+  - {fileID: 21300000, guid: 2f3ae43eed0eca34d93f92eafbd82e0c, type: 3}
+  - {fileID: 21300000, guid: eaa41b6eb1d10604e9755ca0bf5ec8a5, type: 3}
+  - {fileID: 21300000, guid: 633b040f63b1ebd47a738d7191f15daa, type: 3}
+  - {fileID: 21300000, guid: 78920b4f46583ce4bbdd5c4445dbd928, type: 3}
+  - {fileID: 21300000, guid: 42c66abf5dbdc73479ff4c39c53d793e, type: 3}
+  - {fileID: 21300000, guid: 7cb521ff008883740a42504fe83be1f3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Black-Frog
+  - Yellow-Mouse
+  - Black-Cat
+  - Brown-Deer
+  - Green-Frog
+  - Blue-Pig
+  - White-Dog
+  - Brown-Pig
+  - Brown-Bear
+  - Orange-Dog
+  - Pink-Rabbit
+  - Grey-Racoon
+  - White-Panda
+  - Brown-Rabbit
+  - Grey-Rabbit
+  - Grey-Dog
+  - Brown-Dog
+  - Brown-Cat
+  - Blue-Duck
+  - Grey-Deer
+  - Pink-Pig
+  - Brown-Panda
+  - Grey-Bear
+  - Black-Pig
+  - White-Duck
+  - White-Pig
+  - White-Cat
+  - BlackWhite-Dog
+  - Black-Rabbit
+  - Blue-Mouse
+  - Green-Duck
+  - White-Deer
+  - White-Frog
+  - yellow-bear
+  - Yellow-Duck
+  - BrownYellow-Deer
+  - Grey-Cat
+  - Grey-Mouse
+  - Black-Mouse
+  - Black-Bear
+  - White-Bear
+  - White-Rabbit
+  - White-Mouse
+  - Ginger-Panda
+  - Orange-Deer
+  - Orange-Cat
+  - Brown-Frog
+  - Black-Panda
+  - Black-Duck
+  - Blue-Frog
+  m_Tag: Pets
+  m_IsVariant: 0
