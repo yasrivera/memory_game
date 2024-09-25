@@ -1,6 +1,6 @@
 # What is *Cats Dreams*?
 
-*Cats Dreams* is a simple 2D mobile Memory, Matching Pairs, Pairs or Match Up (it depends how you commonly call it) game. It is my first Unity project, created while I was beginning to learn how to work with the engine. My purpose was to learn how to implement and optimize User Interfaces (UIs) in Unity. That’s why I choose to create a memory game in the first place: I could focus on using Unity’s UI toolkit, manipulating the Canvas and even adding some music and sound effects to the interface while creating the logic of the game.
+*Cats Dreams* is a simple 2D mobile Memory, Matching Pairs, Pairs or Match Up (it depends how you commonly call it) game. It is my first Unity project, created while I was beginning to learn how to work with the engine. My purpose was to learn how to implement and optimize User Interfaces (UIs) in Unity. That’s why I choose to create a memory game in the first place: I could focus on using Unity’s UI toolkit, manipulating the Canvas and even adding some music and sound effects to the interface while creating the logic of the game. 
 
 <img src="screenshots/screen-main.png" alt="Main screen" height="500"/> <img src="screenshots/screen-level-map.png" alt="Level map screen" height="500"/> <img src="screenshots/screen-in-game.png" alt="In-game screen" height="500"/>
 
